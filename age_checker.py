@@ -29,7 +29,7 @@ if age <= 0:
 elif age > 0 and age < 18:
     print("happy childhood days")
 elif age >= 18 and age < 21:
-    print("congratulations you are offically an adult")
+    print("congratulations you are officially an adult")
 elif age >= 21 and age < 25:
     print("you are allowed to consume liquior")
 elif age >= 25 and age <= 40:
